@@ -1,0 +1,8 @@
+{
+	"release_date":1770356936347,
+	"name":"1.4.2",
+	"format":1,
+	"changes":[
+		"Renamed the GitHub repo that the game retrieves its assets from"
+	]
+}
