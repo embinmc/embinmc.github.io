@@ -1,3 +1,0 @@
-Splash text override test!
-test splash
-The splash text is being overwritten!
